@@ -1,0 +1,31 @@
+{
+    "nombreApp": "Components",
+    "rutas":[
+        {
+            "ruta":"Mapa",
+            "icono":"map",
+            "texto":"Lugares favoritos"
+        },
+        {
+            "ruta":"Billetera",
+            "icono":"account_balance_wallet",
+            "texto":"Billetera"
+        }, 
+        {
+            "ruta":"Fotos",
+            "icono":"photo_album",
+            "texto":"Galeria de fotos"
+        },
+        {
+            "ruta":"Podcast",
+            "icono":"audiotrack",
+            "texto":"Podcast"
+        },
+        {
+            "ruta":"Lugares",
+            "icono":"add_location",
+            "texto":"Lugares por visitar"
+        }
+
+    ]
+}
